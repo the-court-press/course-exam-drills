@@ -756,7 +756,7 @@
     state.lastScore = score;
     const course = E.getCourse(state.exam.courseId);
     const now = new Date();
-    const label = now.toLocaleString('en-GB', { timeZone: 'Asia/Bangkok', dateStyle: 'medium', timeStyle: 'short' }) + ' ICT';
+    const label = now.toLocaleString('en-GB', { timeZone: 'Etc/GMT-7', dateStyle: 'medium', timeStyle: 'short' }) + ' UTC+7';
     E.saveAttempt(course.id, {
       createdAt: now.toISOString(),
       dateLabel: label,

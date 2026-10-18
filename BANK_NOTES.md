@@ -1,6 +1,6 @@
 # Course Exam Drills — Mega Bank Build Notes
 
-Built: Sep 24, 2026, 2:47 PM ICT (Asia/Bangkok)
+Built: Sep 24, 2026, 2:47 PM UTC+7
 
 ## Per-course counts
 

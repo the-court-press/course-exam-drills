@@ -1,6 +1,6 @@
 # Course Exam Drills — metadata, language rewrite, topic scoring
 
-**When:** Thu 24 Sep 2026 (Asia/Bangkok, ICT)
+**When:** Thu 24 Sep 2026 (UTC+7)
 
 ## What changed
 
