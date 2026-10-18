@@ -53,4 +53,4 @@ Question cards show an **n/10** difficulty badge.
 
 ## Deploy
 - Desktop Course Exams updated (banks, stats, app, engine, styles, BANK_STATS.md)
-- GitHub `julianlee314-hue/course-exam-drills` main @ 45ab568 (token scrubbed from remote)
+- GitHub `the-court-press/course-exam-drills` main @ 45ab568 (token scrubbed from remote)
